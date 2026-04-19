@@ -1,0 +1,11 @@
+# AbleTab Phase 2 — Python Dependencies
+# Install everything with:
+#   pip install -r requirements.txt
+
+sounddevice        # Real microphone audio recording
+scipy              # Writing .wav audio files
+opencv-python      # Webcam image capture
+SpeechRecognition  # Speech-to-text (Google Web Speech API)
+pytesseract        # Python wrapper for Tesseract OCR
+Pillow             # Image loading for OCR
+pyttsx3            # Offline text-to-speech
